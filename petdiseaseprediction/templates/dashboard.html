@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pet Disease Prediction - Dashboard</title>
+  <style>
+    body {
+      background-image: url("{{ url_for('static', filename='pet_dashboard.jpg') }}");
+      background-size: cover;
+      font-family: Arial, sans-serif;
+      color: white;
+      text-align: center;
+      padding-top: 60px;
+    }
+    .box {
+      background: rgba(0, 0, 0, 0.6);
+      padding: 30px;
+      border-radius: 12px;
+      display: inline-block;
+    }
+    input, button {
+      margin: 8px;
+      padding: 10px;
+      border-radius: 6px;
+      border: none;
+      width: 250px;
+    }
+    button {
+      background-color: #ffc107;
+      color: black;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #e0a800;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h2>Enter Pet Details</h2>
+    <form action="/predict" method="POST">
+      <input type="text" name="PetCategory" placeholder="Pet Category (Dog/Cat)" required><br>
+      <input type="text" name="Breed" placeholder="Breed" required><br>
+      <input type="number" name="Age" placeholder="Age" required><br>
+      <input type="text" name="Gender" placeholder="Gender (Male/Female)" required><br>
+      <input type="number" name="Weight" placeholder="Weight (kg)" required><br>
+      <input type="text" name="Symptom1" placeholder="Symptom 1" required><br>
+      <input type="text" name="Symptom2" placeholder="Symptom 2"><br>
+      <input type="text" name="Symptom3" placeholder="Symptom 3"><br>
+      <input type="number" name="Duration" placeholder="Duration (days)" required><br>
+      <button type="submit">Predict Disease</button>
+    </form>
+  </div>
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Prediction Result</title>
+  <style>
+    body {
+      background-image: url("{{ url_for('static', filename='picccc.jpg') }}");
+      background-size: cover;
+      font-family: Arial, sans-serif;
+      color: white;
+      text-align: center;
+      padding-top: 120px;
+    }
+    .box {
+      background: rgba(0, 0, 0, 0.6);
+      padding: 40px;
+      border-radius: 12px;
+      display: inline-block;
+    }
+    h2 {
+      color: #ffc107;
+    }
+    a {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 20px;
+      background-color: #28a745;
+      color: white;
+      border-radius: 6px;
+      text-decoration: none;
+    }
+    a:hover {
+      background-color: #218838;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h2>Predicted Disease:</h2>
+    
+        <p><strong>{{ predicted_disease }}</p>
+    
+    <a href="/dashboard">Go Back</a>
+  </div>
+</body>
+</html>

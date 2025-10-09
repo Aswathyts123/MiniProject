@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pet Disease Prediction - Login</title>
+  <style>
+    body {
+      background-image: url("{{ url_for('static', filename='pet_login.png') }}");
+      background-size: cover;
+      font-family: Arial, sans-serif;
+      color: white;
+      text-align: center;
+      padding-top: 180px;
+    }
+    .box {
+      background: rgba(0, 0, 0, 0.6);
+      padding: 30px;
+      border-radius: 12px;
+      display: inline-block;
+    }
+    input, button {
+      margin: 8px;
+      padding: 10px;
+      border-radius: 6px;
+      border: none;
+      width: 250px;
+    }
+    button {
+      background-color: #28a745;
+      color: white;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #218838;
+    }
+    .error {
+      color: red;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h2>Login</h2>
+    
+    {% with messages=get_flashed_messages() %}
+      {% if messages %}
+        <div class="error">{{ messages[0] }}</div>
+      {% endif %}
+    {% endwith %}
+
+
+    <form action="/login" method="POST">
+      <input type="text" name="username" placeholder="Username" required><br>
+      <input type="password" name="password" placeholder="Password" required><br>
+      <button type="submit">Login</button>
+    </form>
+    <p>Don’t have an account? <a href="/register" style="color: yellow;">Register here</a></p>
+  </div>
+</body>
+</html>

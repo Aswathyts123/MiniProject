@@ -1,0 +1,201 @@
+Pet_Category,Breed,Age,Gender,Weight,Symptom1,Symptom2,Symptom3,Duration,Disease
+Cat,Siamese,2,Female,25.1,Skin Lesions,Loss of Appetite,Vomiting,12,Parvovirus
+Cat,Siamese,3,Male,27.8,Diarrhea,Skin Lesions,Fever,8,Parvovirus
+Dog,German Shepherd,1,Male,13.9,Lethargy,Fever,Skin Lesions,12,Parvovirus
+Dog,Beagle,8,Female,20.0,Diarrhea,Vomiting,Nasal Discharge,10,Parvovirus
+Dog,Poodle,12,Female,17.9,Nasal Discharge,Eye Discharge,Diarrhea,6,Parvovirus
+Cat,Maine Coon,3,Male,2.2,Loss of Appetite,Vomiting,Fever,11,Parvovirus
+Dog,Poodle,7,Male,38.3,Loss of Appetite,Eye Discharge,Lethargy,5,Parvovirus
+Dog,Poodle,5,Male,22.6,Nasal Discharge,Diarrhea,Loss of Appetite,2,Parvovirus
+Cat,Maine Coon,4,Male,7.3,Eye Discharge,Skin Lesions,Fever,6,Parvovirus
+Dog,German Shepherd,8,Male,37.0,Diarrhea,Nasal Discharge,Skin Lesions,4,Parvovirus
+Dog,Labrador,7,Female,7.1,Sneezing,Vomiting,Loss of Appetite,11,Parvovirus
+Cat,Bengal,1,Male,4.2,Sneezing,Loss of Appetite,Coughing,11,Parvovirus
+Dog,Labrador,9,Female,37.5,Eye Discharge,Coughing,Loss of Appetite,13,Parvovirus
+Dog,Labrador,6,Female,9.1,Nasal Discharge,Sneezing,Loss of Appetite,8,Parvovirus
+Dog,Labrador,3,Male,39.1,Sneezing,Diarrhea,Fever,10,Parvovirus
+Cat,Maine Coon,5,Female,30.4,Coughing,Lethargy,Fever,10,Parvovirus
+Dog,German Shepherd,6,Female,28.7,Nasal Discharge,Fever,Diarrhea,3,Parvovirus
+Cat,Siamese,9,Female,6.0,Eye Discharge,Fever,Nasal Discharge,14,Parvovirus
+Cat,Bengal,2,Female,23.4,Eye Discharge,Sneezing,Loss of Appetite,6,Parvovirus
+Dog,Labrador,2,Male,26.7,Eye Discharge,Loss of Appetite,Diarrhea,8,Parvovirus
+Dog,Beagle,7,Male,15.2,Sneezing,Lethargy,Vomiting,14,Rabies
+Cat,Maine Coon,3,Female,28.1,Lethargy,Loss of Appetite,Skin Lesions,10,Rabies
+Dog,Poodle,2,Female,20.9,Loss of Appetite,Sneezing,Skin Lesions,9,Rabies
+Dog,Labrador,12,Male,28.8,Diarrhea,Coughing,Skin Lesions,7,Rabies
+Dog,Poodle,1,Female,25.9,Loss of Appetite,Eye Discharge,Skin Lesions,2,Rabies
+Dog,German Shepherd,5,Male,39.8,Coughing,Loss of Appetite,Sneezing,8,Rabies
+Dog,Poodle,1,Male,9.5,Nasal Discharge,Coughing,Skin Lesions,4,Rabies
+Dog,Poodle,4,Male,36.3,Coughing,Skin Lesions,Fever,14,Rabies
+Cat,Persian,11,Female,32.7,Eye Discharge,Nasal Discharge,Sneezing,14,Rabies
+Dog,Beagle,11,Female,20.5,Fever,Loss of Appetite,Nasal Discharge,14,Rabies
+Dog,Beagle,12,Male,10.9,Eye Discharge,Skin Lesions,Loss of Appetite,9,Rabies
+Dog,German Shepherd,3,Male,4.9,Nasal Discharge,Loss of Appetite,Lethargy,5,Rabies
+Cat,Maine Coon,7,Male,24.5,Sneezing,Loss of Appetite,Vomiting,4,Rabies
+Dog,Labrador,12,Male,7.9,Sneezing,Coughing,Vomiting,13,Rabies
+Dog,German Shepherd,6,Female,13.6,Fever,Lethargy,Loss of Appetite,5,Rabies
+Cat,Siamese,12,Female,23.4,Coughing,Loss of Appetite,Skin Lesions,12,Rabies
+Cat,Persian,6,Female,21.8,Eye Discharge,Fever,Coughing,7,Rabies
+Cat,Maine Coon,11,Female,4.5,Lethargy,Vomiting,Nasal Discharge,7,Rabies
+Dog,German Shepherd,4,Male,13.3,Fever,Loss of Appetite,Sneezing,11,Rabies
+Dog,Poodle,6,Female,33.2,Skin Lesions,Diarrhea,Sneezing,8,Rabies
+Dog,Labrador,12,Female,38.6,Loss of Appetite,Lethargy,Coughing,2,Distemper
+Dog,Poodle,9,Male,34.0,Lethargy,Skin Lesions,Coughing,13,Distemper
+Dog,German Shepherd,10,Female,6.9,Sneezing,Skin Lesions,Fever,1,Distemper
+Dog,Beagle,9,Male,17.7,Vomiting,Diarrhea,Sneezing,10,Distemper
+Cat,Siamese,2,Female,23.3,Skin Lesions,Lethargy,Coughing,3,Distemper
+Cat,Siamese,3,Male,8.1,Diarrhea,Nasal Discharge,Sneezing,9,Distemper
+Dog,Poodle,2,Male,16.1,Skin Lesions,Fever,Coughing,13,Distemper
+Dog,Labrador,2,Female,38.6,Coughing,Lethargy,Sneezing,13,Distemper
+Cat,Siamese,11,Male,5.4,Lethargy,Vomiting,Fever,4,Distemper
+Dog,Labrador,5,Male,38.0,Fever,Coughing,Nasal Discharge,4,Distemper
+Dog,German Shepherd,10,Male,33.6,Diarrhea,Vomiting,Fever,5,Distemper
+Cat,Persian,4,Male,9.0,Fever,Coughing,Sneezing,2,Distemper
+Dog,Beagle,8,Male,12.1,Fever,Eye Discharge,Loss of Appetite,7,Distemper
+Dog,Poodle,10,Male,21.2,Eye Discharge,Sneezing,Fever,11,Distemper
+Cat,Persian,6,Male,20.1,Vomiting,Lethargy,Skin Lesions,5,Distemper
+Cat,Persian,10,Female,23.0,Fever,Loss of Appetite,Nasal Discharge,2,Distemper
+Dog,Poodle,4,Female,35.2,Vomiting,Diarrhea,Coughing,5,Distemper
+Cat,Persian,12,Male,19.6,Eye Discharge,Nasal Discharge,Lethargy,4,Distemper
+Dog,Labrador,12,Male,27.0,Skin Lesions,Eye Discharge,Sneezing,1,Distemper
+Dog,German Shepherd,3,Male,21.5,Skin Lesions,Loss of Appetite,Nasal Discharge,4,Distemper
+Dog,Poodle,7,Male,32.1,Diarrhea,Fever,Nasal Discharge,1,Kennel Cough
+Cat,Persian,3,Male,21.5,Diarrhea,Skin Lesions,Fever,10,Kennel Cough
+Cat,Persian,7,Female,6.0,Diarrhea,Coughing,Sneezing,4,Kennel Cough
+Cat,Siamese,9,Male,33.8,Lethargy,Coughing,Diarrhea,3,Kennel Cough
+Dog,Beagle,5,Female,29.6,Fever,Sneezing,Nasal Discharge,12,Kennel Cough
+Dog,Beagle,5,Female,2.8,Nasal Discharge,Sneezing,Eye Discharge,14,Kennel Cough
+Cat,Persian,2,Male,3.3,Eye Discharge,Fever,Sneezing,11,Kennel Cough
+Dog,Beagle,1,Male,13.0,Skin Lesions,Diarrhea,Coughing,10,Kennel Cough
+Cat,Persian,2,Male,2.3,Fever,Diarrhea,Vomiting,7,Kennel Cough
+Dog,Beagle,3,Male,3.0,Fever,Vomiting,Skin Lesions,3,Kennel Cough
+Cat,Persian,8,Male,27.8,Coughing,Loss of Appetite,Lethargy,3,Kennel Cough
+Cat,Maine Coon,7,Male,6.8,Nasal Discharge,Vomiting,Skin Lesions,6,Kennel Cough
+Dog,Poodle,5,Male,36.3,Eye Discharge,Lethargy,Skin Lesions,6,Kennel Cough
+Cat,Persian,4,Male,12.3,Coughing,Fever,Sneezing,8,Kennel Cough
+Dog,Poodle,7,Female,22.0,Lethargy,Diarrhea,Fever,6,Kennel Cough
+Dog,Beagle,11,Male,10.8,Nasal Discharge,Skin Lesions,Lethargy,9,Kennel Cough
+Cat,Siamese,1,Female,6.3,Coughing,Eye Discharge,Sneezing,9,Kennel Cough
+Dog,Labrador,11,Female,10.7,Lethargy,Nasal Discharge,Sneezing,11,Kennel Cough
+Dog,Labrador,1,Male,3.5,Fever,Sneezing,Coughing,13,Kennel Cough
+Dog,Poodle,10,Male,23.4,Loss of Appetite,Diarrhea,Skin Lesions,1,Kennel Cough
+Dog,German Shepherd,3,Male,22.8,Diarrhea,Coughing,Vomiting,6,Feline Leukemia
+Cat,Bengal,4,Male,22.5,Diarrhea,Loss of Appetite,Fever,4,Feline Leukemia
+Dog,Poodle,5,Female,3.8,Sneezing,Eye Discharge,Lethargy,4,Feline Leukemia
+Dog,Labrador,5,Female,35.2,Loss of Appetite,Vomiting,Coughing,3,Feline Leukemia
+Cat,Siamese,9,Male,36.7,Sneezing,Diarrhea,Eye Discharge,8,Feline Leukemia
+Dog,Poodle,11,Female,23.8,Nasal Discharge,Eye Discharge,Fever,9,Feline Leukemia
+Dog,Labrador,5,Male,15.6,Skin Lesions,Vomiting,Eye Discharge,11,Feline Leukemia
+Cat,Persian,5,Female,5.5,Diarrhea,Nasal Discharge,Vomiting,1,Feline Leukemia
+Cat,Persian,4,Male,34.1,Nasal Discharge,Lethargy,Eye Discharge,1,Feline Leukemia
+Cat,Siamese,2,Male,18.1,Loss of Appetite,Vomiting,Nasal Discharge,14,Feline Leukemia
+Cat,Siamese,4,Male,35.4,Coughing,Eye Discharge,Loss of Appetite,13,Feline Leukemia
+Cat,Siamese,9,Female,29.3,Eye Discharge,Vomiting,Loss of Appetite,5,Feline Leukemia
+Dog,Poodle,12,Male,3.2,Fever,Lethargy,Nasal Discharge,2,Feline Leukemia
+Dog,German Shepherd,2,Female,37.5,Fever,Lethargy,Sneezing,2,Feline Leukemia
+Cat,Persian,6,Male,23.9,Coughing,Fever,Loss of Appetite,10,Feline Leukemia
+Dog,Poodle,3,Male,23.3,Fever,Skin Lesions,Nasal Discharge,14,Feline Leukemia
+Dog,Beagle,1,Female,39.7,Eye Discharge,Diarrhea,Fever,2,Feline Leukemia
+Cat,Siamese,1,Female,29.9,Loss of Appetite,Lethargy,Eye Discharge,6,Feline Leukemia
+Dog,German Shepherd,5,Female,6.0,Fever,Skin Lesions,Eye Discharge,6,Feline Leukemia
+Dog,Labrador,1,Female,36.2,Lethargy,Fever,Diarrhea,1,Feline Leukemia
+Cat,Maine Coon,11,Male,22.6,Vomiting,Sneezing,Coughing,2,Feline Immunodeficiency Virus
+Cat,Maine Coon,7,Female,11.2,Coughing,Nasal Discharge,Loss of Appetite,4,Feline Immunodeficiency Virus
+Cat,Bengal,10,Female,2.5,Lethargy,Eye Discharge,Nasal Discharge,1,Feline Immunodeficiency Virus
+Cat,Persian,8,Female,18.2,Sneezing,Skin Lesions,Nasal Discharge,3,Feline Immunodeficiency Virus
+Cat,Bengal,10,Female,5.1,Diarrhea,Lethargy,Loss of Appetite,9,Feline Immunodeficiency Virus
+Dog,Poodle,7,Female,13.9,Sneezing,Loss of Appetite,Vomiting,1,Feline Immunodeficiency Virus
+Dog,German Shepherd,1,Female,22.2,Eye Discharge,Nasal Discharge,Loss of Appetite,12,Feline Immunodeficiency Virus
+Dog,Labrador,1,Female,4.6,Nasal Discharge,Diarrhea,Fever,6,Feline Immunodeficiency Virus
+Dog,Poodle,3,Female,20.8,Nasal Discharge,Diarrhea,Vomiting,8,Feline Immunodeficiency Virus
+Cat,Bengal,4,Female,2.9,Diarrhea,Coughing,Nasal Discharge,7,Feline Immunodeficiency Virus
+Dog,German Shepherd,12,Male,36.6,Fever,Coughing,Vomiting,14,Feline Immunodeficiency Virus
+Cat,Persian,12,Female,18.4,Loss of Appetite,Lethargy,Eye Discharge,11,Feline Immunodeficiency Virus
+Cat,Siamese,4,Female,35.4,Eye Discharge,Nasal Discharge,Lethargy,8,Feline Immunodeficiency Virus
+Dog,German Shepherd,8,Female,21.3,Lethargy,Coughing,Eye Discharge,7,Feline Immunodeficiency Virus
+Cat,Siamese,11,Male,21.0,Vomiting,Fever,Coughing,1,Feline Immunodeficiency Virus
+Cat,Siamese,10,Female,19.1,Skin Lesions,Coughing,Diarrhea,6,Feline Immunodeficiency Virus
+Dog,Labrador,11,Male,37.9,Vomiting,Lethargy,Diarrhea,1,Feline Immunodeficiency Virus
+Cat,Bengal,4,Male,15.1,Nasal Discharge,Skin Lesions,Lethargy,12,Feline Immunodeficiency Virus
+Cat,Siamese,11,Female,21.1,Eye Discharge,Lethargy,Coughing,10,Feline Immunodeficiency Virus
+Cat,Persian,7,Female,28.3,Loss of Appetite,Nasal Discharge,Eye Discharge,1,Feline Immunodeficiency Virus
+Cat,Persian,10,Male,13.7,Sneezing,Diarrhea,Fever,6,Ringworm
+Dog,Poodle,5,Male,26.5,Fever,Skin Lesions,Loss of Appetite,8,Ringworm
+Dog,Labrador,9,Female,7.5,Diarrhea,Lethargy,Nasal Discharge,1,Ringworm
+Cat,Siamese,2,Male,17.5,Diarrhea,Eye Discharge,Loss of Appetite,7,Ringworm
+Cat,Persian,7,Female,33.5,Diarrhea,Lethargy,Sneezing,8,Ringworm
+Cat,Maine Coon,10,Female,2.8,Lethargy,Vomiting,Fever,11,Ringworm
+Cat,Persian,3,Female,5.6,Coughing,Eye Discharge,Loss of Appetite,2,Ringworm
+Cat,Siamese,2,Male,12.7,Lethargy,Diarrhea,Coughing,7,Ringworm
+Cat,Persian,8,Male,5.1,Fever,Eye Discharge,Vomiting,10,Ringworm
+Dog,Poodle,6,Female,12.8,Skin Lesions,Eye Discharge,Vomiting,14,Ringworm
+Dog,German Shepherd,10,Male,35.7,Skin Lesions,Diarrhea,Nasal Discharge,5,Ringworm
+Cat,Bengal,6,Female,33.0,Eye Discharge,Loss of Appetite,Sneezing,12,Ringworm
+Dog,Poodle,3,Male,29.3,Diarrhea,Fever,Lethargy,13,Ringworm
+Dog,German Shepherd,8,Female,12.5,Fever,Coughing,Diarrhea,10,Ringworm
+Dog,German Shepherd,8,Male,35.1,Eye Discharge,Fever,Nasal Discharge,4,Ringworm
+Dog,German Shepherd,3,Female,18.6,Skin Lesions,Vomiting,Nasal Discharge,3,Ringworm
+Dog,German Shepherd,4,Male,2.3,Eye Discharge,Fever,Loss of Appetite,2,Ringworm
+Dog,Beagle,3,Female,35.5,Sneezing,Nasal Discharge,Eye Discharge,13,Ringworm
+Cat,Maine Coon,1,Male,38.1,Sneezing,Fever,Loss of Appetite,9,Ringworm
+Dog,Poodle,6,Female,35.0,Vomiting,Coughing,Fever,14,Ringworm
+Cat,Bengal,8,Female,39.4,Eye Discharge,Skin Lesions,Nasal Discharge,3,Ear Mites
+Dog,Poodle,3,Male,4.0,Lethargy,Sneezing,Vomiting,3,Ear Mites
+Cat,Bengal,12,Male,11.6,Nasal Discharge,Eye Discharge,Loss of Appetite,3,Ear Mites
+Cat,Bengal,7,Female,20.1,Nasal Discharge,Lethargy,Vomiting,9,Ear Mites
+Cat,Siamese,2,Male,34.2,Eye Discharge,Coughing,Diarrhea,7,Ear Mites
+Dog,German Shepherd,5,Female,38.3,Nasal Discharge,Lethargy,Eye Discharge,9,Ear Mites
+Cat,Siamese,11,Male,30.4,Diarrhea,Nasal Discharge,Fever,6,Ear Mites
+Dog,German Shepherd,6,Male,9.9,Skin Lesions,Eye Discharge,Vomiting,12,Ear Mites
+Cat,Maine Coon,12,Male,29.9,Loss of Appetite,Coughing,Skin Lesions,5,Ear Mites
+Dog,German Shepherd,1,Female,39.5,Nasal Discharge,Fever,Coughing,10,Ear Mites
+Cat,Siamese,9,Female,17.4,Lethargy,Vomiting,Loss of Appetite,12,Ear Mites
+Dog,Beagle,11,Female,2.7,Sneezing,Eye Discharge,Loss of Appetite,7,Ear Mites
+Cat,Maine Coon,11,Male,3.0,Diarrhea,Lethargy,Nasal Discharge,4,Ear Mites
+Cat,Siamese,4,Female,3.2,Nasal Discharge,Loss of Appetite,Fever,5,Ear Mites
+Cat,Siamese,11,Male,23.5,Diarrhea,Skin Lesions,Loss of Appetite,12,Ear Mites
+Cat,Persian,9,Male,19.8,Nasal Discharge,Eye Discharge,Loss of Appetite,2,Ear Mites
+Dog,German Shepherd,12,Female,11.6,Skin Lesions,Sneezing,Diarrhea,5,Ear Mites
+Dog,Labrador,4,Male,27.0,Diarrhea,Eye Discharge,Coughing,7,Ear Mites
+Cat,Siamese,8,Female,31.6,Skin Lesions,Vomiting,Diarrhea,13,Ear Mites
+Cat,Siamese,1,Female,9.9,Nasal Discharge,Coughing,Fever,14,Ear Mites
+Cat,Persian,1,Female,26.1,Nasal Discharge,Skin Lesions,Lethargy,9,Lyme Disease
+Dog,Beagle,11,Female,36.7,Lethargy,Loss of Appetite,Diarrhea,6,Lyme Disease
+Cat,Maine Coon,8,Male,23.3,Vomiting,Diarrhea,Coughing,12,Lyme Disease
+Cat,Persian,8,Female,19.9,Fever,Eye Discharge,Vomiting,8,Lyme Disease
+Dog,German Shepherd,7,Female,8.0,Skin Lesions,Sneezing,Fever,13,Lyme Disease
+Dog,Beagle,9,Female,9.6,Lethargy,Loss of Appetite,Eye Discharge,9,Lyme Disease
+Dog,Beagle,8,Female,8.0,Vomiting,Eye Discharge,Diarrhea,4,Lyme Disease
+Cat,Bengal,4,Male,12.8,Loss of Appetite,Sneezing,Vomiting,12,Lyme Disease
+Cat,Bengal,6,Female,6.0,Skin Lesions,Sneezing,Loss of Appetite,11,Lyme Disease
+Cat,Maine Coon,9,Male,25.0,Sneezing,Eye Discharge,Nasal Discharge,13,Lyme Disease
+Dog,Beagle,8,Female,31.7,Vomiting,Loss of Appetite,Lethargy,8,Lyme Disease
+Cat,Persian,10,Female,13.8,Nasal Discharge,Coughing,Vomiting,9,Lyme Disease
+Dog,Poodle,6,Female,26.0,Nasal Discharge,Eye Discharge,Skin Lesions,13,Lyme Disease
+Cat,Bengal,1,Female,35.6,Nasal Discharge,Sneezing,Fever,1,Lyme Disease
+Dog,Beagle,9,Male,39.4,Nasal Discharge,Diarrhea,Eye Discharge,3,Lyme Disease
+Cat,Siamese,9,Male,18.8,Vomiting,Eye Discharge,Sneezing,6,Lyme Disease
+Dog,Poodle,7,Male,37.3,Sneezing,Diarrhea,Lethargy,11,Lyme Disease
+Dog,German Shepherd,1,Male,15.5,Nasal Discharge,Lethargy,Sneezing,8,Lyme Disease
+Cat,Maine Coon,4,Male,9.0,Skin Lesions,Fever,Lethargy,10,Lyme Disease
+Dog,Labrador,9,Male,14.9,Nasal Discharge,Skin Lesions,Diarrhea,12,Lyme Disease
+Dog,Poodle,8,Female,23.0,Nasal Discharge,Vomiting,Lethargy,11,Snuffles
+Cat,Persian,2,Female,5.9,Fever,Lethargy,Skin Lesions,12,Snuffles
+Dog,German Shepherd,5,Female,5.9,Lethargy,Sneezing,Coughing,11,Snuffles
+Cat,Persian,12,Male,21.9,Lethargy,Fever,Vomiting,2,Snuffles
+Dog,Beagle,7,Male,39.0,Nasal Discharge,Skin Lesions,Lethargy,5,Snuffles
+Dog,Beagle,7,Male,7.6,Skin Lesions,Sneezing,Fever,9,Snuffles
+Dog,German Shepherd,12,Male,25.3,Fever,Nasal Discharge,Sneezing,10,Snuffles
+Cat,Persian,10,Female,23.2,Diarrhea,Coughing,Loss of Appetite,4,Snuffles
+Dog,German Shepherd,6,Female,3.0,Fever,Sneezing,Lethargy,14,Snuffles
+Dog,German Shepherd,4,Female,2.8,Eye Discharge,Coughing,Fever,1,Snuffles
+Dog,German Shepherd,4,Female,37.9,Coughing,Vomiting,Eye Discharge,5,Snuffles
+Dog,Labrador,10,Female,35.8,Diarrhea,Fever,Skin Lesions,3,Snuffles
+Dog,Labrador,6,Male,11.0,Eye Discharge,Skin Lesions,Fever,9,Snuffles
+Dog,Beagle,12,Male,12.5,Skin Lesions,Eye Discharge,Diarrhea,7,Snuffles
+Dog,German Shepherd,5,Male,21.5,Lethargy,Skin Lesions,Vomiting,2,Snuffles
+Dog,Poodle,2,Female,17.6,Coughing,Sneezing,Nasal Discharge,10,Snuffles
+Dog,Poodle,7,Female,24.0,Nasal Discharge,Loss of Appetite,Skin Lesions,13,Snuffles
+Dog,Beagle,4,Female,32.5,Nasal Discharge,Coughing,Vomiting,4,Snuffles
+Cat,Bengal,2,Male,19.3,Loss of Appetite,Sneezing,Fever,14,Snuffles
+Dog,Beagle,1,Male,4.8,Lethargy,Skin Lesions,Nasal Discharge,4,Snuffles
